@@ -2,7 +2,7 @@ const auth = (req, res) => {
     res.send(`
         <h1>"Bienvenido a esta api de test, 2020-02-25</h1>
             <h1>USO ENDPOINTS</h1>
-            <h3>Host: https://hostname/</h3>
+            <h3>Host: https://node-films-api.herokuapp.com/</h3>
             <h2>FILMS</h2>
             <p>
             body: title:type.STRING, <br />
